@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pyrennie
-- 👀 I’m interested in coding and other arts
+- 👀 I’m interested in coding and gaming.
 - 🌱 I’m currently learning Python 3 in school as well as HTML by myself.
 - 📫 How to reach me:
 -		rennie00620@gmail.com
