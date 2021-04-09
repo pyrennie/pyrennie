@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyrennie
+- 👋 Hi, I’m @pyrennie or just Ren.
 - 👀 I’m interested in coding and gaming.
 - 🌱 I’m currently learning Python 3 in school as well as HTML by myself.
 - 📫 How to reach me:
